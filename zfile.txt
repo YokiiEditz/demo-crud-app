@@ -1,0 +1,8 @@
+SERVER:
+-> npm init -y 
+-> npm i express cors
+-> npm i nodemon -D
+
+CLIENT:
+=> npm create vite@latest (client)   - npx create-vite (client)
+=> npm i axios

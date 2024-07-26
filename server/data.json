@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Arya",
+        "age": 28,
+        "city": "India"
+    },
+    {
+        "id": 2,
+        "name": "Allen Simpson",
+        "age": 20,
+        "city": "South Arfica"
+    },
+    {
+        "id": 3,
+        "name": "Jemima Hebert",
+        "age": 42,
+        "city": "China"
+    },
+    {
+        "id": 4,
+        "name": "Paloma Charles",
+        "age": 33,
+        "city": "Thailand"
+    },
+    {
+        "id": 5,
+        "name": "Emma Richard",
+        "age": 26,
+        "city": "France"
+    },
+    {
+        "id": 6,
+        "name": "Kelsey Gregory",
+        "age": 28,
+        "city": "Romania"
+    },
+    {
+        "id": 7,
+        "name": "Colby Beasley",
+        "age": 43,
+        "city": "USA"
+    },
+    {
+        "id": 8,
+        "name": "Tasha Hyde",
+        "age": 27,
+        "city": "Japan"
+    },
+    {
+        "id": 9,
+        "name": "Aphrodite Fitzpatrick",
+        "age": 39,
+        "city": "Oman"
+    },
+    {
+        "id": 10,
+        "name": "May Dale",
+        "age": 26,
+        "city": "UAE"
+    },
+    {
+        "id": 11,
+        "name": "May jane",
+        "age": 30,
+        "city": "USA"
+    }
+]
