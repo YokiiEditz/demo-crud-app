@@ -35,11 +35,10 @@ const App = () => {
     setFilterUsers(filteredData);
   };
 
-  const handleDelete = async (uid) => {
-    console.log("uid", uid);
+  const handleDelete = async (id) => {
     const isConfirm = window.confirm("Are you sure you want to delete!");
     if (isConfirm) {
-      await axios.delete(`http://localhost:8000/users/${uid}`).then((res) => {
+      await axios.delete(`http://localhost:8000/users/${id}`).then((res) => {
         setUsers(res.data);
         setFilterUsers(res.data);
       });
